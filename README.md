@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 - **User registration and login (optional):** Create an account for a personalized experience.
 - **Secure checkout:** Ensure the safety of your payment information.
 
-###### Usage
+### Usage
 
 1. **Open the website**: Run `home.html` in your web browser.
 2. **Browse the catalog**: Explore the wide selection of products.
