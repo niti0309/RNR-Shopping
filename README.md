@@ -37,3 +37,5 @@ Before you begin, ensure you have met the following requirements:
 7. **User authentication**: If registered, log in; otherwise, create a new account.
 8. **Payment and shipping**: Enter your payment and shipping information.
 9. **Confirm order**: Review your order and confirm the purchase.
+
+
