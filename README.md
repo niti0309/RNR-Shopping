@@ -1,6 +1,6 @@
 # RNR-Shopping
 
-This is a fully-fledged online shopping website built using HTML, CSS, and JavaScript. The website allows users to browse products, add them to their cart, and proceed to checkout.
+This is a robust and fully-fledged online shopping website developed using a combination of frontend technologies, including HTML, CSS, and JavaScript. It offers a comprehensive shopping experience to users, enabling them to effortlessly explore a wide array of products, curate their selections, and seamlessly complete their purchases.
 
 ## Table of Contents
 
