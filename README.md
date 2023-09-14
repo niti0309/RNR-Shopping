@@ -8,8 +8,6 @@ This is a robust and fully-fledged online shopping website developed using a com
   - [Prerequisites](#prerequisites)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
